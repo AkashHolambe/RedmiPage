@@ -1,7 +1,7 @@
 # RedmiPage frontend project 
 
 
-Summary of Redmi Mobile Buying Page Frontend Project:
+<h2> Summary of Redmi Mobile Buying Page Frontend Project: </h2>
 
 Title: Redmi Mobile Buying Page
 
